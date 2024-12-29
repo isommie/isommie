@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Edwin Anajemba
 - 👀 I’m interested in Web Development, Blockchain Engineering, Artificial Intelligence, and Machine Learning
-- 🌱 I’m currently learning and building solutions
+- 🌱 I’m currently learning about, and building, web solutions
 - 💞️ I’m looking to collaborate on any project that require backend skills, devOps, or blockchain skills
 - 📫 How to reach me: @isommie on most platforms
 - 😄 Pronouns: He/Him
