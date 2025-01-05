@@ -1,6 +1,6 @@
 
 ### Hi there! 👋  
-I'm Edwin Anajemba, also known as **isommie**, a passionate developer exploring a wide range of technologies and domains. Welcome to my GitHub profile!  
+I'm Edwin Anajemba, also known as **isommie**, a passionate developer exploring a wide range of technologies and domains. Welcome to my new GitHub profile! My previous/other profile, https://github.com/anajembaedwin, isn't as curated as this one.
 
 ## 🧐 About Me  
 
