@@ -1,4 +1,3 @@
----
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=164C78&vCenter=true&center=true&width=1300&lines=Hi%2C+I'm+Edwin+Anajemba;Data+Engineer+%7C+AI+%26+ML+Engineer+%7C+MLOps+%7C+DevOps+%7C+Cloud+Computing">
 
