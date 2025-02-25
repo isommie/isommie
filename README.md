@@ -53,6 +53,21 @@ I thrive on **optimizing workflows, managing large-scale data systems, and deplo
 
 ---
 
+## 🎓 **Certifications**  
+
+- 🏅 **AWS Certified Solutions Architect – Associate**  
+- 🏅 **Google Professional Data Engineer**  
+- 🏅 **Microsoft Certified: Azure Data Engineer Associate**  
+- 🏅 **TensorFlow Developer Certificate**  
+- 🏅 **Certified Kubernetes Administrator (CKA)**  
+- 🏅 **Databricks Certified Data Engineer Associate**  
+- 🏅 **HashiCorp Certified: Terraform Associate**  
+- 🏅 **IBM Data Science Professional Certificate**  
+- 🏅 **Machine Learning Specialization – Stanford (Coursera)**  
+- 🏅 **Docker Certified Associate (DCA)**  
+
+---
+
 ## 📬 **Let’s Connect!**
 I’m always open to collaboration, new opportunities, or just a friendly chat. Feel free to reach out:  
 
